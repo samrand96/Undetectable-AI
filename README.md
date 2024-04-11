@@ -42,7 +42,7 @@ Example:
 
 ```bash
 python docx_processor.py input.docx --output_file_path processed.docx --model dolphin-mistral:latest --target_lang russian --grammar --chatgpt
-
+```
 
 ## Prerequisites
 

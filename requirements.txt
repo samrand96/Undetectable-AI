@@ -1,0 +1,6 @@
+argparse
+python-docx
+openai
+requests
+ollama
+deep-translator

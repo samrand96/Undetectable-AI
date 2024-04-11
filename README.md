@@ -26,7 +26,7 @@ To use the Python DOCX Processor, follow these steps:
 4. Run the script with the desired options:
 
     ```bash
-    python docx_processor.py <file_path> [--output_file_path <output_file_path>] [--model <model_name>] [--target_lang <target_language>] [--grammar] [--chatgpt]
+    python main.py <file_path> [--output_file_path <output_file_path>] [--model <model_name>] [--target_lang <target_language>] [--grammar] [--chatgpt]
     ```
 
     - `<file_path>`: Path to the original DOCX file.

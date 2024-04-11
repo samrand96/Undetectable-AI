@@ -42,3 +42,30 @@ Example:
 
 ```bash
 python docx_processor.py input.docx --output_file_path processed.docx --model dolphin-mistral:latest --target_lang russian --grammar --chatgpt
+
+
+## Prerequisites
+
+Before using the Python DOCX Processor, ensure you have the following prerequisites:
+
+1. **ollama Installed:** Install ollama by following the instructions on the official website: [ollama.com](https://ollama.com).
+
+2. **Download Model:** After installing ollama, download the preferred model. For example, to download the "dolphin-mistral:latest" model, use the following command:
+
+    ```bash
+    ollama pull dolphin-mistral:latest
+    ```
+
+3. **ChatGPT Key (Optional):** If you intend to use ChatGPT, ensure you have your own API key. You can obtain an API key by signing up on the OpenAI website: [OpenAI API](https://beta.openai.com/signup/).
+
+## Disclaimer
+
+Undetectable-AI, including its Python DOCX Processor script and associated documentation, is provided for educational purposes only. The project is intended to explore text processing techniques and should be used responsibly and in compliance with applicable laws and regulations.
+
+The creators and contributors of Undetectable-AI do not endorse any unauthorized or unethical use of the project, including but not limited to plagiarism, copyright infringement, or misrepresentation of generated content as original.
+
+Users are solely responsible for their use of Undetectable-AI and any consequences thereof. The creators and contributors disclaim any liability for any damages or losses arising from the use of the project.
+
+By using Undetectable-AI, you agree to use it solely for educational and lawful purposes, and you acknowledge and accept the terms of this disclaimer.
+
+

@@ -41,7 +41,7 @@ To use the Python DOCX Processor, follow these steps:
 Example:
 
 ```bash
-python docx_processor.py input.docx --output_file_path processed.docx --model dolphin-mistral:latest --target_lang russian --grammar --chatgpt
+python main.py input.docx --output_file_path processed.docx --model dolphin-mistral:latest --target_lang russian --grammar --chatgpt
 ```
 
 ## Prerequisites

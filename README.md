@@ -1,2 +1,2 @@
 # Undetectable-AI
-TO BE DONE LATER...
+Welcome to the Undetectable AI Tool! This script is designed to huminize ChatGPT and other text-based content. It offers efficient DOCX file manipulation, including text translation, humanization, grammar correction, and content evaluation. Powered by leading Python libraries and external services, it provides a seamless solution for automating document workflows. With customizable options via command-line arguments, it's perfect for professionals and enthusiasts looking to streamline text processing tasks.

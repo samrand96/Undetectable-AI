@@ -8,7 +8,7 @@ To use the Python DOCX Processor, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/samrandhaji/Undetectable-AI
+    git clone https://github.com/samrand96/Undetectable-AI
     ```
 
 2. Navigate to the repository directory:
